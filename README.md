@@ -1,16 +1,16 @@
 # micard_app
 
-A new Flutter application.
+## What I created
 
-## Getting Started
+Mi Card is a personal business card. 
 
-This project is a starting point for a Flutter application.
+## What I learned
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* How to create Stateless Widgets
+* What is hot reload and hot refresh
+* How to use Containers to lay out UI
+* How to use Columns and Rows to position UI elements
+* How to add custom fonts
+* How to add Material icons
+* How to style Text widgets
+* How to read and use Flutter Documentation
